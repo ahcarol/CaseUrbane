@@ -40,7 +40,7 @@ Este bot automatiza algumas ações no navegador para coletar informações no Y
 Com tudo configurado, basta executar o script com o comando:
 
 ```bash
-python nome_do_arquivo.py
+python main.py
 ```
 
 O navegador abrirá automaticamente e o bot começará a executar as ações descritas acima.
